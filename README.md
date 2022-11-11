@@ -1,5 +1,5 @@
 - Hi, my name is Letícia (:
-- I'm still learning how to code but feel free to take a look on my respositories.
+- I'm still learning how to code but feel free to take a look at my respositories.
 
 <!---
 leticiagarz/leticiagarz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
