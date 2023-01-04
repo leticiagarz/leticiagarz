@@ -1,6 +1,6 @@
 <H2> Welcome! </H2>
 <H3> About me </H3>
-My name is Letícia, I'm 23 years old. I like cold, fictional characters, animes, pets and basketball. I'm on transition to tech carrer. <br><br>
+My name is Letícia, I'm 23 years old. I like cold, fictional characters, animes, pets and basketball. I'm on transition to tech career. <br><br>
 <a href="https://instagram.com/leticiagarz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:garzleticia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leticiagarz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
