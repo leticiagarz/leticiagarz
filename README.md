@@ -1,3 +1,1 @@
-Hi ✨
-- My name is Letícia
-- I'm still learning how to code but feel free to take a look at my respositories.
+![Snake animation](https://github.com/leticiagarz/leticiagarz/blob/output/github-contribution-grid-snake.svg)
